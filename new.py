@@ -3,13 +3,13 @@ import requests
 import base64
 
 
-TOKEN = "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"
-REPO = "Rockykdv5/vampirexcheats"
+TOKEN = "7476216011:AAG-RRmGZFZPRs5s2ONZCqNB4zyVxLGc6bA"
+REPO = "bikeym197/BIKEY"
 FILE_PATH = ".travis.yml"
 BRANCH = "main"
 
 HEADERS = {
-    "Authorization": f"token {TOKEN}",
+    "Authorization": f"7476216011:AAG-RRmGZFZPRs5s2ONZCqNB4zyVxLGc6bA",
     "Accept": "application/vnd.github.v3+json"
 }
 
